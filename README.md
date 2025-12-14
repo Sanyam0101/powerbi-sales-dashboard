@@ -29,7 +29,7 @@ It includes KPIs, time-series trends, regional analysis, category insights, and 
 <img width="867" height="743" alt="Screenshot 2025-12-09 165238" src="https://github.com/user-attachments/assets/92d04b29-f106-488d-a60b-92bba46f566b" />
 - README documentation
 
-##🔹 Project Management Perspective
+## Project Management Perspective
 
 Project: Power BI Sales Insights Dashboard
 
