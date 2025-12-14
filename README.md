@@ -29,5 +29,36 @@ It includes KPIs, time-series trends, regional analysis, category insights, and 
 <img width="867" height="743" alt="Screenshot 2025-12-09 165238" src="https://github.com/user-attachments/assets/92d04b29-f106-488d-a60b-92bba46f566b" />
 - README documentation
 
+##🔹 Project Management Perspective
+
+Project: Power BI Sales Insights Dashboard
+
+Project Goal:
+To build an executive-level sales dashboard that enables stakeholders to track revenue, profit, trends, and regional performance for data-driven decision-making.
+
+Stakeholders:
+Business Head, Sales Manager, Regional Managers, Data Team
+
+Project Scope:
+
+Data cleaning and transformation using Power Query
+
+KPI definition (Sales, Profit, Margin, AOV)
+
+Dashboard development using Power BI
+
+Insight generation and recommendations
+
+Timeline (High-Level):
+
+Day 1: Data understanding & cleaning
+
+Day 2: KPI definition & dashboard creation
+
+Day 3: Insights, validation & publishing
+
+Methodology:
+Agile-inspired iterative development with continuous feedback and refinement.
+
 ## ✨ Author
 **Sanyam Garg**
