@@ -57,6 +57,15 @@ Day 2: KPI definition & dashboard creation
 
 Day 3: Insights, validation & publishing
 
+## QA analysis
+| Test Case                   | Expected Result                       |
+| --------------------------- | ------------------------------------- |
+| Select Year = 2023          | All KPIs update correctly             |
+| Filter Category = Furniture | Sales & profit reflect Furniture only |
+| Month order                 | Months appear Jan → Dec               |
+
+
+
 Methodology:
 Agile-inspired iterative development with continuous feedback and refinement.
 
